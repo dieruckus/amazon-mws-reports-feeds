@@ -1,13 +1,13 @@
 {
-    "name": "aivanouski/amazon-mws-reports-feeds",
+    "name": "dieruckus/amazon-mws-reports-feeds",
     "type": "library",
     "description": "Amazon Marketplace Web Service Reports, Feeds PHP Client Library Version 2009-01-01",
     "keywords": ["amazon", "mws", "reports", "feeds", "client", "api", "library"],
     "licence": "Apache-2.0",
     "authors": [
         {
-          "name": "Andrei Ivanouski",
-          "email": "aivanouski@gmail.com"
+          "name": "Alexander Ruckus",
+          "email": "dieruckusdie@gmail.com"
         }
     ],
     "require": {
